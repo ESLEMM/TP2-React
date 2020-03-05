@@ -1,0 +1,21 @@
+
+.menu {
+    width: 200px;
+    margin-top: 2%;
+    float: left;
+  }
+  
+  .menu a {
+    color: Black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+  }
+  
+  .menu a:hover {
+    background-color: #f15b26;
+  }
+  
+  .menu a.active {
+    background-color: #f15b26;
+  }
